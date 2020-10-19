@@ -1,5 +1,4 @@
-![Java CI](https://github.com/mano558/document-management-software
-/workflows/Java CI/badge.svg)
+![Java CI](https://github.com/mano558/document-management-software/workflows/Java CI/badge.svg)
 
 # Open Source Document Management Software
 LogicalDOC Community Edition is an [Open Source Document Management Software](https://www.logicaldoc.com/download-logicaldoc-community). If you are looking for a free cost then "Community" is your best option. LogicalDOC [document management system (DMS)](https://www.logicaldoc.com/solutions/document-management) allows businesses to control the production, storage, management and distribution of electronic documents, yielding greater effectiveness and the ability to reuse information and to control the flow of the documents.
